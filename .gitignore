@@ -1,5 +1,6 @@
 project-flask-midterm/__pycache__/
 project-flask-midterm/venv/
+project-flask-midterm/templates/node_modules/
 
 # Node
 node_modules/
